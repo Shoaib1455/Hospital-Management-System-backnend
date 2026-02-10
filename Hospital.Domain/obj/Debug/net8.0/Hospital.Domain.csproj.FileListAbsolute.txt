@@ -1,0 +1,11 @@
+C:\Projects\Hospital Management\Hospital.Domain\bin\Debug\net8.0\Hospital.Domain.deps.json
+C:\Projects\Hospital Management\Hospital.Domain\bin\Debug\net8.0\Hospital.Domain.dll
+C:\Projects\Hospital Management\Hospital.Domain\bin\Debug\net8.0\Hospital.Domain.pdb
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.AssemblyInfoInputs.cache
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.AssemblyInfo.cs
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.dll
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\refint\Hospital.Domain.dll
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.pdb
+C:\Projects\Hospital Management\Hospital.Domain\obj\Debug\net8.0\ref\Hospital.Domain.dll

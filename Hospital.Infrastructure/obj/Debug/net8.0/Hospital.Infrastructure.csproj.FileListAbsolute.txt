@@ -1,0 +1,17 @@
+C:\Projects\Hospital Management\Hospital.Infrastructure\bin\Debug\net8.0\Hospital.Infrastructure.deps.json
+C:\Projects\Hospital Management\Hospital.Infrastructure\bin\Debug\net8.0\Hospital.Infrastructure.dll
+C:\Projects\Hospital Management\Hospital.Infrastructure\bin\Debug\net8.0\Hospital.Infrastructure.pdb
+C:\Projects\Hospital Management\Hospital.Infrastructure\bin\Debug\net8.0\Hospital.Application.dll
+C:\Projects\Hospital Management\Hospital.Infrastructure\bin\Debug\net8.0\Hospital.Domain.dll
+C:\Projects\Hospital Management\Hospital.Infrastructure\bin\Debug\net8.0\Hospital.Application.pdb
+C:\Projects\Hospital Management\Hospital.Infrastructure\bin\Debug\net8.0\Hospital.Domain.pdb
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.Infrastructure.AssemblyInfo.cs
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.DEEB3E34.Up2Date
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.Infrastructure.dll
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\refint\Hospital.Infrastructure.dll
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\Hospital.Infrastructure.pdb
+C:\Projects\Hospital Management\Hospital.Infrastructure\obj\Debug\net8.0\ref\Hospital.Infrastructure.dll

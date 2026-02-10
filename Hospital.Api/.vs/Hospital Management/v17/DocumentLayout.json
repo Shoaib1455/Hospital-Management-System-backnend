@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Hospital Management\\Hospital.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC87D104-B84A-4120-BF23-B128D59933C1}|..\\Hospital.Infrastructure\\Hospital.Infrastructure.csproj|c:\\projects\\hospital management\\hospital.infrastructure\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFEE6F-6C5A-4486-8C03-E7B61AD67C28}|..\\Hospital.Application\\Hospital.Application.csproj|c:\\projects\\hospital management\\hospital.application\\interfaces\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFEE6F-6C5A-4486-8C03-E7B61AD67C28}|..\\Hospital.Application\\Hospital.Application.csproj|c:\\projects\\hospital management\\hospital.application\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC87D104-B84A-4120-BF23-B128D59933C1}|..\\Hospital.Infrastructure\\Hospital.Infrastructure.csproj|c:\\projects\\hospital management\\hospital.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC87D104-B84A-4120-BF23-B128D59933C1}|..\\Hospital.Infrastructure\\Hospital.Infrastructure.csproj|c:\\projects\\hospital management\\hospital.infrastructure\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC87D104-B84A-4120-BF23-B128D59933C1}|..\\Hospital.Infrastructure\\Hospital.Infrastructure.csproj|c:\\projects\\hospital management\\hospital.infrastructure\\persistence\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\laboratory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|c:\\projects\\hospital management\\hospital.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\bed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|c:\\projects\\hospital management\\hospital.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\surgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7922D-65AA-4C7B-AD18-D7620DFBF8FB}|..\\Hospital.Domain\\Hospital.Domain.csproj|c:\\projects\\hospital management\\hospital.domain\\entities\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Migrations\\20260209115341_CreateWardAndBedTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|c:\\projects\\hospital management\\hospital.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|c:\\projects\\hospital management\\hospital.api\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|c:\\projects\\hospital management\\hospital.api\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFEE6F-6C5A-4486-8C03-E7B61AD67C28}|..\\Hospital.Application\\Hospital.Application.csproj|c:\\projects\\hospital management\\hospital.application\\viewmodels\\patientvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFEE6F-6C5A-4486-8C03-E7B61AD67C28}|..\\Hospital.Application\\Hospital.Application.csproj|c:\\projects\\hospital management\\hospital.application\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|c:\\projects\\hospital management\\hospital.api\\hospital.api.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F281226A-CE78-4770-A6B6-23C1512FCD48}|Hospital.Api.csproj|solutionrelative:hospital.api.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC87D104-B84A-4120-BF23-B128D59933C1}|..\\Hospital.Infrastructure\\Hospital.Infrastructure.csproj|c:\\projects\\hospital management\\hospital.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFEE6F-6C5A-4486-8C03-E7B61AD67C28}|..\\Hospital.Application\\Hospital.Application.csproj|c:\\projects\\hospital management\\hospital.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Hospital Management\\Hospital.Api\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStaffRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Application\\Interfaces\\IStaffRepository.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Application\\Interfaces\\IStaffRepository.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Application\\Interfaces\\IStaffRepository.cs",
+              "RelativeToolTip": "..\\Hospital.Application\\Interfaces\\IStaffRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:17:13.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Repositories\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Infrastructure\\Repositories\\StaffRepository.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Repositories\\StaffRepository.cs",
+              "RelativeToolTip": "..\\Hospital.Infrastructure\\Repositories\\StaffRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:14:33.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Application\\Interfaces\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Application\\Interfaces\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Application\\Interfaces\\IDoctorRepository.cs",
+              "RelativeToolTip": "..\\Hospital.Application\\Interfaces\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:13:18.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "..\\Hospital.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:06:45.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laboratory.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Laboratory.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Laboratory.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Laboratory.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Laboratory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:29:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:11:57.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:26:11.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "..\\Hospital.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:53:07.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bed.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Bed.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Bed.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Bed.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Bed.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:00:20.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Persistence\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Infrastructure\\Persistence\\HospitalContext.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Persistence\\HospitalContext.cs",
+              "RelativeToolTip": "..\\Hospital.Infrastructure\\Persistence\\HospitalContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T10:14:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:36:21.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T09:30:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Billing.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Billing.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Billing.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Billing.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:14:55.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Staff.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Staff.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Staff.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:10:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Surgery.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Surgery.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Surgery.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Surgery.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Surgery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:01:17.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ward.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Ward.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Ward.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Ward.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Ward.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:00:05.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "..\\Hospital.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:55:43.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260209115341_CreateWardAndBedTables.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Migrations\\20260209115341_CreateWardAndBedTables.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Infrastructure\\Migrations\\20260209115341_CreateWardAndBedTables.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Migrations\\20260209115341_CreateWardAndBedTables.cs",
+              "RelativeToolTip": "..\\Hospital.Infrastructure\\Migrations\\20260209115341_CreateWardAndBedTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:53:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:00:24.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Api\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Api\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-09T11:51:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Api\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Api\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T11:01:21.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientVM.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Application\\ViewModels\\PatientVM.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Application\\ViewModels\\PatientVM.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Application\\ViewModels\\PatientVM.cs",
+              "RelativeToolTip": "..\\Hospital.Application\\ViewModels\\PatientVM.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:43:26.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Application\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Application\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Application\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "..\\Hospital.Application\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:51:21.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Hospital.Api.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Api\\Hospital.Api.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "Hospital.Api.csproj.Backup.tmp",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Api\\Hospital.Api.csproj.Backup.tmp",
+              "RelativeToolTip": "Hospital.Api.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-26T09:30:45.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Application\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Application\\Class1.cs",
+              "RelativeToolTip": "..\\Hospital.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T08:15:11.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\Hospital.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:33:10.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Projects\\Hospital Management\\Hospital.Api\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "C:\\Projects\\Hospital Management\\Hospital.Api\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:30:57.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
